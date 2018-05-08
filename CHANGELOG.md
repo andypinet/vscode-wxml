@@ -12,7 +12,7 @@
 
 - 增加了一些参数说明
 
-![vscode/wxml-dwscription.gif](http://oaz5uxplb.bkt.clouddn.com/vscode/wxml-dwscription.gif)
+<!-- ![vscode/wxml-dwscription.gif](http://oaz5uxplb.bkt.clouddn.com/vscode/wxml-dwscription.gif) -->
 
 ## v0.1.5
 

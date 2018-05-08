@@ -2,8 +2,8 @@
 
 为 VSCode 提供 wxml 语法支持及代码片段
 
-[![version](http://vsmarketplacebadge.apphb.com/version/coderfee.vscode-wxml.svg)](http://vsmarketplacebadge.apphb.com/version/coderfee.vscode-wxml.svg)
-[![installs](http://vsmarketplacebadge.apphb.com/installs/coderfee.vscode-wxml.svg)](http://vsmarketplacebadge.apphb.com/installs/coderfee.vscode-wxml.svg)
+<!-- [![version](http://vsmarketplacebadge.apphb.com/version/coderfee.vscode-wxml.svg)](http://vsmarketplacebadge.apphb.com/version/coderfee.vscode-wxml.svg)
+[![installs](http://vsmarketplacebadge.apphb.com/installs/coderfee.vscode-wxml.svg)](http://vsmarketplacebadge.apphb.com/installs/coderfee.vscode-wxml.svg) -->
 
 ## 安装
 
@@ -14,7 +14,7 @@
 
 键入关键词，然后回车。关键词不区分大小写
 
-![vscode-weapp-snippets](http://oaz5uxplb.bkt.clouddn.com/vscode-wxml.gif)
+<!-- ![vscode-weapp-snippets](http://oaz5uxplb.bkt.clouddn.com/vscode-wxml.gif) -->
 
 #### 代码示例
 
